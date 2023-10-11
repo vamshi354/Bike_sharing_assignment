@@ -8,10 +8,9 @@
 
 ## General Information
 
-- This projects does the data analysis/interpretation and prodicts which are the factors to influence for demand for shared bikes 
-
+- This projects does the data analysis/interpretation and predicts which are the factors to influence for demand for shared bikes 
 - This project tries to solve the business problem of understanding what factors effects positiveley/negatively on the Bikesharing company
-- Bike dataset is beinng used 
+- Bike dataset is being used 
 
 ## Conclusions
 
